@@ -13,7 +13,7 @@
 
 ### Objectives
 
-In this lesson, we will discuss the high level functionality of `wash`. At the end of the could, you should be able to:
+In this lesson, we will discuss the high level functionality of `wash`. At the end, you should be able to:
 
 - start and interact with the `wash` REPL
 - understand the most commonly used subcommand's functionality
