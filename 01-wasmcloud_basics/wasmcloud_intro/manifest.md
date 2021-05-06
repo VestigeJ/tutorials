@@ -1,6 +1,6 @@
 ## The manifest.yaml file
 
-A `wasmcloud` manifest file is a representation of a desired set of contents running in an instance. It can include actors, capability providers, host labels, and link definations. Below is an example of a manifest file that will bootstrap the `wasmcloud` runtime with an echo server actor, an http server provider, and link the two.
+A `wasmcloud` manifest file is a representation of a desired set of contents running in an instance. It can include actors, capability providers, host labels, and link definitions. Below is an example of a manifest file that will bootstrap the `wasmcloud` runtime with an echo server actor, an http server provider, and link the two.
 
 Click the following section to preview in the IDE...
 
@@ -23,7 +23,7 @@ links:
 
 ### A breakdown
 
-> Note: We will leverage the power of `wash` to explain where some of the manifest inputs come from. `wash` is the WAshcloud SHell and provides the developer with a ton of powerful tooling. It is highly recommended that you visit the `wash Introduction` tutorial to learn about its capabilities.
+> Note: We will leverage the power of `wash` to explain where some of the manifest inputs come from. `wash` is the WAsmcloud SHell and provides the developer with a ton of powerful tooling. It is highly recommended that you visit the `wash Introduction` tutorial to learn about its capabilities.
 
 ##### Labels
 
