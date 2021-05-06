@@ -5,7 +5,7 @@ Thanks for trying out `wasmcloud`! While our environment bootstraps, lets discus
 - Polyglot Platform
   Building on the [polyglot](https://`wasmcloud`.dev/app-dev/create-actor/) power of WebAssembly, you can create actors in AssemblyScript, TinyGo, or Rust.
 - Pleasantly Portable
-  `wasmcloud` provides a WebAssembly application runtime so you can run your applications everywhere - servers, clients, hosts, IOS, web browsers, IOT or where ever WebAssembly executes. For more on this, check out the [documentation](https://`wasmcloud`.dev/overview/installation/).
+  `wasmcloud` provides a WebAssembly application runtime so you can run your applications everywhere - servers, clients, hosts, iOS, web browsers, IoT or where ever WebAssembly executes. For more on this, check out the [documentation](https://`wasmcloud`.dev/overview/installation/).
 - Completely Connected
   `wasmcloud` comes out of the box bundled with [Lattice](https://`wasmcloud`.dev/reference/lattice/) - a self-forming, self-healing mesh network that provides a unified, flattened topology across any number of disparate environments, clouds, browsers, or even hardware. No firewalls. No port forwarding. It just works.
 - Securely Scalable
